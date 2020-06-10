@@ -1,0 +1,1178 @@
+#menu-bar .navbar-brand {
+	width: 120px;
+	line-height: 20px;
+	padding: 0;
+}
+#menu-bar .navbar-nav{
+	margin-right: 150px;
+}
+
+#menu-bar .navbar-nav li>a{
+	color: black;
+	font-family: utm essendie caps re;
+	font-weight: bold;
+	font-size: 15px;
+	padding: 15px;
+	float: left;
+	line-height: 45px;
+}
+#menu-bar .navbar-default{
+	background-color: rgba(255,255,255,.5);
+	border-color: white;
+	margin-bottom: 0px;
+	border:none;
+}
+#menu-bar .navbar-right li>a{
+	float: right;
+}
+#menu-bar li>a:hover{
+	background-color: #f6ad39;
+	color: black;
+}
+#checktour input{
+	margin-top: 50px;
+	border: 1px solid #f6ad39;
+	margin-left: 40px;
+}
+/*  #checktour button,a {
+	background-color: #f6ad39;
+	border: none;
+	width: 60%  */
+
+#checktour a.btn.btn-primary.ctt {
+	margin-top: 50px;
+	margin-left: 20px;
+}
+#checktour a {
+	background-color: #f6ad39;
+	border: none;
+	width: 60% ;
+	border-radius: 0;
+}
+
+#slider img {
+	width: 100%;
+}
+#sliderht h2{
+	margin-bottom: 10px;
+}
+#sliderht h4{
+	margin-bottom: 450px;
+	font-family: utm essendie caps re;
+}
+#sliderhis h2{
+	margin-bottom: 10px;
+}
+#sliderhis h4{
+	margin-bottom: 430px;
+	font-family: utm essendie caps re;
+}
+#sliderres h4{
+	margin-bottom: 365px;
+	font-family: utm essendie caps re;
+}
+#slidervm h4{
+	margin-bottom: 400px;
+	font-family: utm essendie caps re;
+}
+#sliderdv h4{
+	margin-bottom: 400px;
+	font-family: utm essendie caps re;
+}
+#sliderlh h4{
+	margin-bottom: 250px;
+	font-family: utm essendie caps re;}
+#restaurant h1{
+	font-family: utm essendie caps re;
+	color: #f6ad39;
+	font-weight: bold;
+}
+#restaurant hr{
+	width: 450px;
+	margin-left: 0;
+	border: 1px solid #a1a1a1;
+}
+#restaurant button{
+	background-color: #f6ad39;
+	color: white;
+	border: none;
+}
+#restaurant .panel-default>.panel-heading{
+	background-color: #fff;
+	border: none;
+}
+#restaurant .panel-default>.panel-heading+.panel-collapse>.panel-body{
+	border: none;
+}
+#restaurant .panel-default a:hover{
+	text-decoration: none;
+}
+#restaurant .panel-default{
+	border: none;
+}
+#restaurant p{
+	margin-top: 40px;
+	font-weight: bold;
+	font-family: utm essendie caps re;
+	margin-top: -10px;
+	margin-left: 0;
+}
+#restaurant iframe{
+	margin-top: 20px;
+}
+#restaurant img{
+	margin-top: 20px;
+}
+#restaurant a:focus{
+	text-decoration: none;
+}
+ 
+ #restaurant a:hover{
+	text-decoration: none;
+}
+#restaurant a:visited{
+	text-decoration: none;
+}
+#restaurant a:active{
+	text-decoration: none;
+}
+#tour h1{
+	font-family: utm essendie caps re;
+	color: #f6ad39;
+	font-weight: bold;
+	margin-top: 50px;
+}
+#tour img{
+	margin-top: 30px;
+}
+#tour h4{
+	font-family: utm essendie caps re;
+	font-weight: bold;
+	font-size: 22px;
+}
+#tour h5{
+	font-family: utm essendie caps re;
+	margin-top: 10px;
+	font-size: 18px;
+}
+#tour button{
+	background-color: #f6ad39;
+	color: white;
+	border: none;
+	margin: auto;
+	display: block;
+	border-radius: 0;
+}
+
+#tour .review-bg11 .headings1{
+	color:#000;
+}
+#tour .review-s{
+	position:relative;overflow:hidden;transition:all 0.5s ease-in-out;
+}
+#tour .review-s img{
+	overflow:hidden;cursor:pointer;
+}
+#tour .review-s img:hover{
+	transform:scale(1.1);transition:all 0.5s ease-in-out;
+}
+#tour .review-c {
+	position: absolute;transform: translate(-50%, -50%);bottom: -21px;left: 50%;color: #fff;background: #72166c;width: 100%;text-align: center;font-size: 18px;font-weight: 500;
+}
+#tour .review-c p {
+	padding-top: 7px;
+}
+#hotel .bg{
+	background:url("../img/banner2.jpg");
+	margin-top: 20px;
+}
+
+#hotel .review-s{
+	position:relative;overflow:hidden;transition:all 0.5s ease-in-out;
+}
+#hotel .review-s img{
+	overflow:hidden;cursor:pointer;
+
+}
+#hotel .review-s img:hover{
+	transform:scale(1.1);transition:all 0.5s ease-in-out;
+
+}
+#hotel .review-c {
+	position: absolute;transform: translate(-50%, -50%);bottom: -21px;left: 50%;color: #fff;background: #72166c;width: 100%;text-align: center;font-size: 18px;font-weight: 500;
+}
+#hotel .review-c p {
+	padding-top: 7px;
+}
+#hotel .bg{
+	background:url("../img/banner2.jpg");
+	margin-top: 20px;
+}
+
+#hotel h1{
+	font-family: utm essendie caps re;
+	font-weight: bold;
+	color: #f6ad39;
+	margin-top: 50px;
+}
+#hotel img{
+	width: 100%;
+	margin-top: 20px;
+}
+#hotel span{
+	margin-left: 100px;
+}
+#hotel .row {
+	margin-top: -200px;
+	position: relative;
+
+}
+#hotel h4{
+	margin-top: 30px;
+	font-family: utm essendie caps re;
+	font-weight: bold;
+}
+#tienich .review-bg11 .headings1{
+	color:#000;
+}
+#tienich .review-s{
+	position:relative;overflow:hidden;transition:all 0.5s ease-in-out;
+}
+#tienich .review-s img{
+	overflow:hidden;cursor:pointer;
+}
+#tienich .review-s img:hover{
+	transform:scale(1.1);transition:all 0.5s ease-in-out;
+}
+#tienich .review-c {
+	position: absolute;transform: translate(-50%, -50%);bottom: -21px;left: 50%;color: #fff;background: #72166c;width: 100%;text-align: center;font-size: 18px;font-weight: 500;
+}
+#tienich .review-c p {
+	padding-top: 7px;
+}
+#tienich h5{
+	font-family: utm avo;
+
+}
+#tienich button{
+	margin: auto;
+	display: block;
+	border: none;
+	background-color:#f6ad39;
+	color: white;
+	border-radius: 0;
+}
+#hotel hr{
+	width: 950px;
+	margin-left: 0;
+	border: 1px solid #a1a1a1;
+	margin-left: 300px;
+}
+#tienich h1{
+	font-family: utm essendie caps re;
+	font-weight: bold;
+	color: #f6ad39;
+	margin-top: 50px;
+}
+#tienich h4{
+	margin-top: 30px;
+	font-family: utm essendie caps re;
+	font-weight: bold;
+}
+/* Đây là css của trang tin tức */
+
+#slider .carousel-inner h2{
+	margin-top: -400px;
+	font-family: utm essendie caps re;
+}
+#slider .carousel-inner h4{
+	font-family: utm essendie caps re;
+
+}
+#new h1{
+	font-family: utm essendie caps re;
+	color: #f6ad39;
+	font-weight: bold;
+	margin-top: 50px;
+}
+#new img{
+	margin-top: 30px;
+}
+#new h5{
+	font-family: utm essendie caps re;
+	margin-top: 20px;
+	font-size: 16px;
+	font-weight: bold;
+}
+#new button{
+	background-color: #f6ad39;
+	color: white;
+	border: none;
+	float: right;
+	border-radius: 0;
+}
+
+#new .review-bg11 .headings1{
+	color:#000;
+}
+#new .review-s{
+	position:relative;overflow:hidden;transition:all 0.5s ease-in-out;
+}
+#new .review-s img{
+	overflow:hidden;cursor:pointer;
+}
+#new .review-s img:hover{
+	transform:scale(1.1);transition:all 0.5s ease-in-out;
+}
+#slider2 img{
+	margin-top: 50px;
+}
+#new2 .btn-primary{
+	background-color: #f6ad39;
+	color: white;
+	border: none;
+	border-radius: 0px;
+	margin-top: 100px;
+}
+#new2 .panel-default>.panel-heading{
+	background-color: white;
+	border-color: white;
+}
+#new2 .panel-default{
+	border-color: white;
+}
+#new2 h4{
+	margin-top: 100px;
+	font-family: utm essendie caps re;
+	font-weight: bold;
+	margin-left: -110px;
+	font-size: 25px;
+}
+#new2 .panel-group .panel{
+	border: white;
+}
+#new2 p{
+	font-family: utm avo;
+	margin-top: -10px;
+	margin-left: -15px;
+}
+#new2 .btn-2{
+	background-color: #f6ad39;
+	color: white;
+	border: none;
+	border-radius: 0px;
+	margin-top: 20px;
+}
+#new2 img{
+	margin-top: 20px;
+}
+/* Đây là css của trang Liên hệ */
+
+#one h1{
+	font-family: utm essendie caps re;
+	color: #f6ad39;
+	font-weight: bold;
+	margin-top: 50px;
+}
+#one h6{
+	margin-top: 20px;
+	font-family: utm avo;
+}
+#two h1{
+	font-family: utm essendie caps re;
+	color: #f6ad39;
+	font-weight: bold;
+	margin-top: 50px;
+
+}
+#two .form-group{
+	margin-top: 10px;
+	border-radius: 0px;
+}
+#two .form-control{
+	margin-top: 10px;
+	border: 1px solid #f6ad39;
+	border-radius: 0px;
+}
+#two textarea{
+	width: 36%;
+	height: 200px;
+}
+#two button{
+	background-color: #f6ad39;
+	border-radius: 0px;
+	color: white;
+	border: none;
+	margin-top: 10px;
+	margin-left: 360px;
+}
+#slider .carousel-inner h2{
+	margin-top: -250px;
+}
+#slider .carousel-inner h4{
+	font-family: utm essendie caps re;
+
+}
+
+#slider .carousel-inner h2{
+	margin-top: -250px;
+}
+#slider .carousel-inner h4{
+	font-family: utm essendie caps re;
+
+}
+
+/* Đây là css của trang giới thiệu */
+
+#slider .carousel-inner h2{
+	margin-top: -450px;
+	font-family: utm essendie caps re;
+}
+#slider .carousel-inner h4{
+	font-family: utm essendie caps re;
+
+}
+#tongquan img{
+	margin-top: 50px;
+}
+#tongquan h1{
+	margin-top: 40px;
+	font-family: utm essendie caps re;
+	color: #f6ad39;
+	font-weight: bold;
+}
+#tongquan p{
+	margin-top: 10px;
+}
+#tongquan button{
+	background-color: #f6ad39;
+	border-radius: 0px;
+	color: white;
+	border: none;
+	margin-top: 30px;
+}
+#tongquan button{
+	display: block;
+	margin: auto;
+}
+#favor h1{
+	margin-top: 50px;
+	font-family: utm essendie caps re;
+	color: #f6ad39;
+	font-weight: bold;
+}
+#favor .form-control{
+	margin-top: 30px;
+	border: 1px solid #f6ad39;
+	border-radius: 0px;
+}
+#favor h3{
+	font-family: utm essendie caps re;
+	font-size: 28px;
+	font-weight: bold;
+}
+#favor p{
+	font-size: 14px;
+	font-family: utm avo;
+	margin-left: 0;
+}
+#favor button{
+	background-color: #f6ad39;
+	border-radius: 0px;
+	color: white;
+	border: none;
+	margin-top: 30px;
+	float: right;
+	width: 10%;
+}
+
+/* Đây là css của trang hội họp và sự kiện */
+
+#slider .carousel-inner h2{
+	margin-top: -450px;
+	font-family: utm essendie caps re;
+}
+#slider .carousel-inner h4{
+	font-family: utm essendie caps re;
+
+}
+#check-room input{
+	margin-top: 50px;
+	border: 1px solid #f6ad39;
+	margin-left: 40px;
+	border-radius: 0px;
+}
+
+#check-room a.btn.btn-primary.ctt {
+	margin-top: 50px;
+	margin-left: 20px;
+}
+#check-room a {
+	background-color: #f6ad39;
+	width: 60%;
+	border-radius: 0px;
+	border: none;
+}
+#local h1{
+	font-family: utm essendie caps re;
+	color: #f6ad39;
+	font-weight: bold;
+	margin-top: 50px;
+}
+#local h4{
+	font-family: utm avo;
+	font-weight: bold;
+	margin-top: 60px;
+}
+#local p{
+	font-family: utm avo;
+	margin-top: 15px;
+	margin-left: 0px;
+}
+#local-2 h4{
+	font-family: utm avo;
+	font-weight: bold;
+	margin-top: 80px;
+}
+#local-2 p{
+	font-family: utm avo;
+	margin-top: 15px;
+	margin-left: 0px;
+}
+#local-2 img{
+	margin-top: 50px;
+}
+#food h1{
+	font-family: utm essendie caps re;
+	color: #f6ad39;
+	font-weight: bold;
+	margin-top: 50px;
+}
+#food h4{
+	font-family: utm avo;
+	font-weight: bold;
+	margin-top: 60px;
+}
+#food p{
+	font-family: utm avo;
+	margin-top: 15px;
+	margin-left: 0px;
+}
+#signin {
+	background-color: #d7d7d7;
+	margin-top: 50px;
+}
+#signin h3{
+	font-family: utm essendie caps re;
+	font-weight: bold;
+}
+#signin .form-inline{
+	margin-left: 350px;
+
+}
+#signin .form-inline input{
+	border: 1px solid #936035;
+	border-radius: 0px;
+}
+#signin .form-horizontal{
+	margin-left: 354px;
+	width: 36%;
+	margin-top: 0px;
+}
+#signin .form-horizontal input{
+	border: 1px solid #936035;
+	border-radius: 0px;
+}
+#signin .form-horizontal-2{
+	margin-left: 180px;
+	font-family: utm avo;
+}
+#signin .form-horizontal-2 button{
+	margin-left: 130px;
+	background-color: #f6ad3a;
+	border: none;
+	border-radius: 0px;
+	color: white;
+}
+#signin .form-control{
+	margin-top: 0px;
+}
+/* Đây là css của trang Vinpearl Land */
+
+#slider .carousel-inner h2{
+	margin-top: -450px;
+	font-family: utm essendie caps re;
+}
+#slider .carousel-inner h4{
+	font-family: utm essendie caps re;
+
+}
+#ticket-box input{
+	margin-top: 50px;
+	border: 1px solid #f6ad39;
+	margin-left: 150px;
+	border-radius: 0px;
+}
+
+#ticket-box a.btn.btn-primary.ctt {
+	margin-top: 50px;
+	margin-left: 150px;
+}
+#ticket-box a {
+	background-color: #f6ad39;
+	width: 60%;
+	border-radius: 0px;
+	border: none;
+}
+#gioithieu h1{
+	font-family: utm essendie caps re;
+	color: #f6ad39;
+	font-weight: bold;
+	margin-top: 50px;
+}
+#trai-nghiem h1{
+	font-family: utm essendie caps re;
+	color: #f6ad39;
+	font-weight: bold;
+	margin-top: 50px;
+
+}
+#trai-nghiem img{
+	margin-top: 30px;
+}
+#trai-nghiem h4{
+	font-family: utm essendie caps re;
+	font-weight: bold;
+	margin-top: 30px;
+}
+#trai-nghiem button{
+	background-color: #f6ad39;
+	color: white;
+	border: none;
+	margin: auto;
+	display: block;
+	border-radius: 0;
+}
+
+#trai-nghiem .review-bg11 .headings1{
+	color:#000;
+}
+#trai-nghiem .review-s{
+	position:relative;overflow:hidden;transition:all 0.5s ease-in-out;
+}
+#trai-nghiem .review-s img{
+	overflow:hidden;cursor:pointer;
+}
+#trai-nghiem .review-s img:hover{
+	transform:scale(1.1);transition:all 0.5s ease-in-out;
+}
+#trai-nghiem .review-c {
+	position: absolute;transform: translate(-50%, -50%);bottom: -21px;left: 50%;color: #fff;background: #72166c;width: 100%;text-align: center;font-size: 18px;font-weight: 500;
+}
+#trai-nghiem .review-c p {
+	padding-top: 7px;
+}
+#map img, iframe{
+	margin-top: 50px;
+}
+#uudai img{
+	margin-top: 50px;
+}
+#uudai h3{
+	margin-top: -300px;
+	
+}
+#uudai h3,h2{
+	width: 420px;
+	margin-left: 240px;
+	font-family: utm essendie caps re;
+}
+#uudai p{
+	width: 360px;
+	margin-left: 240px;
+	font-family: utm essendie caps re;
+}
+#uudai .row-n01 {
+	margin-top: -400px;
+	height: 50px;
+	margin-left: 150px;
+	width: 250px;
+}
+
+#footer {
+	height: 400px;
+	background-color: black;
+	margin-top: -1px;
+}
+#footer img{
+	margin-top: 50px;
+	width: 200px;
+}
+#footer h6{
+	color: white;
+	font-weight: bold;
+	font-size: 16px;
+	font-family: utm essendie caps re;
+}
+#footer h6{
+	margin-top: 50px;
+}
+#footer p{
+	font-family: utm avo;
+	color: white;
+	margin-left: 0;
+	margin-top: 15px;
+}
+#hotels .bt-right{
+	margin-left: 255px;
+	margin-right: 0;
+}
+#hotels .mbot{
+	margin-top: 10px;
+}
+#hotels span{
+	margin-left: 100px;
+}
+#hotels button{
+	border-radius: 0;
+}
+#hotels h1{
+	font-family: utm essendie caps re;
+	color: #f6ad39;
+	font-weight: bold;
+	margin-top: 50px;
+}
+#hotels h4{
+	font-family: utm essendie caps re;
+	font-weight: bold;
+	color: #000;
+}
+#hotels .review-bg11{background:url(https://bestjquery.com/tutorial/product-grid/demo9/images/img-4.jpg)no-repeat center center;background-size:cover;padding: 10px 0px 30px 0px;}
+#hotels .review-bg11 .headings1{color:#000;}
+#hotels .review-s{position:relative;overflow:hidden;transition:all 0.5s ease-in-out;}
+#hotels .review-s img{overflow:hidden;cursor:pointer;}
+#hotels .review-s img:hover{transform:scale(1.1);transition:all 0.5s ease-in-out;}
+#hotels .review-c {position: absolute;transform: translate(-50%, -50%);bottom: -21px;left: 50%;color: #fff;background: #72166c;width: 100%;text-align: center;font-size: 18px;font-weight: 500;}
+#hotels .review-c p {padding-top: 7px;}
+#ccc h2{
+	font-family: utm essendie caps re;
+	color: black;
+	font-weight: bold;
+	margin-top: 50px;
+}
+#imght{
+	margin-top: 50px;
+	width: 100%;
+	height: 803px;
+	background-image: url("../img/imght.jpg");
+}
+#ccc{
+	background-color: white;
+	margin: auto;
+	padding-top:15px;
+	margin-top: -600px;
+	margin-bottom: 200px;
+	width: 520px;
+	height: 325px;
+}
+#ccc .ctn1{
+	background-color: white;
+	margin: auto;
+	border: 2px solid orange;
+	width: 490px;
+	height: 295px;
+}
+#ccc h2{
+	margin: auto;
+	margin-left: 150px;
+	margin-top: 130px;
+}
+#tourseven .back{
+	position: relative;
+}
+#tourseven .overlapp{
+	position: absolute;
+	top: 50px;
+	left: 40%;
+}
+#tourseven .overtapp{
+	position: absolute;
+	top: 50px;
+	right: 40%;
+	z-index: 999;
+}
+#tourseven .bot{
+	margin-top: 50px;
+}
+#tourseven .top{
+	margin-top: 50px;
+}
+#tourseven .ddd{
+	background-color: white;
+	margin: auto;
+	padding: 20px;
+	width: 400px;
+}
+#tourseven .margin-lefttt{
+	background-color: white;
+	margin: auto;
+	width: 360px;
+	border: 2px solid orange;
+
+}
+#tourseven .margin-righttt{
+	background-color: white;
+	margin: auto;
+	width: 360px;
+	border: 2px solid orange;
+
+}
+#tourseven .right{
+	margin-right: 0;
+	float: right;
+}
+#tourseven .row{
+	margin-right: 0;
+	margin-left: -15px;
+}
+#tourseven h1{
+	font-family: utm essendie caps re;
+	color: #f6ad39;
+	font-weight: bold;
+	margin-top: 30px;
+}
+#tourseven h3,p{
+	margin-top: 10px;
+	margin-left: 10px;
+}
+#tourseven h3{
+	font-family: utm essendie caps re;
+}
+#tourseven p{
+	margin-top: 15px;
+	margin-left: 10px;
+	font-family:UTM Avo;
+}
+
+#res{
+	margin-top: 50px;
+}
+#res h1{
+	font-family: utm essendie caps re;
+	color: #f6ad39;
+	font-weight: bold;
+	margin-top: 50px;
+}
+#res .bbb{
+	background-color: white;
+	margin: auto;
+	padding-top:15px;
+	margin-top: 90px;
+	margin-bottom: 100px;
+	width: 500px;
+	height: 300px;
+	margin-top: -320px;
+	margin-left: -50px;
+}
+#res .margin-lefttt{
+	display: block;
+	background-color: white;
+	margin: auto;
+	border: 2px solid #916035;
+	width: 470px;
+	height:270px;
+	
+}
+#res h3,p{
+	margin-left: -15px;
+}
+#res p{
+	margin-top: 10px;
+}
+#bar h1{
+	font-family: utm essendie caps re;
+	color: #f6ad39;
+	font-weight: bold;
+	margin-top: 20px;
+}
+#bar hr{
+	margin: auto;
+	width: 950px;
+	border: 1px solid #916035;
+	margin-top: 0px;
+}
+#bar .b-top{
+	margin-top: 70px;
+}
+#bar .b-bot{
+	margin-top: 120px;
+}
+#bar .ccc{
+	background-color: white;
+	margin: auto;
+	padding-top:15px;
+	margin-top: 90px;
+	margin-bottom: 100px;
+	width: 350px;
+	height: 650px;
+	margin-top: -600px;
+}
+#bar .mar-left{
+	display: block;
+	background-color: white;
+	margin: auto;
+	border: 2px solid #916035;
+	width: 320px;
+	height:620px;
+	
+}
+#bar .aaa{
+	background-color: white;
+	margin: auto;
+	padding-top:15px;
+	margin-top: 90px;
+	margin-bottom: 100px;
+	width: 350px;
+	height: 650px;
+	margin-top: -600px;
+}
+#bar .mar-right{
+	display: block;
+	background-color: white;
+	margin: auto;
+	border: 2px solid #916035;
+	width: 320px;
+	height:620px;
+	
+}
+#bar h3{
+	color: #916035;
+	margin-top: 150px;
+}
+#bar p{
+	margin-top: 50px;
+	margin-left: 0;
+}
+#tourdadat{
+	margin-top: 50px;
+}
+#tourdadat h1{
+	font-family: utm essendie caps re;
+	color: #f6ad39;
+	font-weight: bold;
+	margin-top: 50px;
+}
+#tourdadat .ttt{
+	background-color: white;
+	margin: auto;
+	padding-top:15px;
+	margin-top: 90px;
+	margin-bottom: 100px;
+	width: 630px;
+	height: 405px;
+	margin-top: -406px;
+	margin-left: 600px;
+}
+#tourdadat .margin-lefttt{
+	display: block;
+	background-color: white;
+	margin: auto;
+	border: 2px solid #f6ad39;
+	width: 590px;
+	height:365px;
+	
+}
+#tourdadat p{
+	margin-top: 20px;
+	margin-left: 5px;
+	font-size: 13px;
+}
+/* khachsandadat */
+#khachsandadat{
+	margin-top: 10px;
+}
+#khachsandadat h1{
+	font-family: utm essendie caps re;
+	color: #f6ad39;
+	font-weight: bold;
+}
+#khachsandadat .kkk{
+	background-color: white;
+	margin: auto;
+	padding-top:15px;
+	margin-top: 90px;
+	margin-bottom: 100px;
+	width: 580px;
+	height: 403px;
+	margin-top: -403px;
+	margin-left: -50px;
+}
+#khachsandadat .margin-lefttt{
+	display: block;
+	background-color: white;
+	margin: auto;
+	border: 2px solid #f6ad39;
+	width: 540px;
+	height:365px;
+	
+}
+#khachsandadat p{
+	margin-top: 20px;
+	margin-left: 5px;
+	font-size: 13px;
+}
+/* nhahangdadat */
+#nhahangdadat{
+	margin-top: 10px;
+	margin-bottom: 0;
+}
+#nhahangdadat h1{
+	font-family: utm essendie caps re;
+	color: #f6ad39;
+	font-weight: bold;
+}
+#nhahangdadat .nnn{
+	background-color: white;
+	margin: auto;
+	padding-top:15px;
+	margin-top: 90px;
+	margin-bottom: 100px;
+	width: 520px;
+	height: 410px;
+	margin-top: -411px;
+	margin-left: 600px;
+}
+#nhahangdadat .margin-lefttt{
+	display: block;
+	background-color: white;
+	margin: auto;
+	border: 2px solid #f6ad39;
+	width: 480px;
+	height:370px;
+	
+}
+#nhahangdadat p{
+	margin-top: 20px;
+	margin-left: 5px;
+	font-size: 13px;
+}
+#nhahangdadat h3{
+	font-family: utm essendie caps re;
+	color: #f6ad39;
+	font-weight: bold;
+	margin-top: 50px;
+	margin-left: 20px;
+}
+#nhahangdadat hr{
+	margin-top: 20px;
+	width: 400px;
+	border: 1px solid #916035;
+}
+#signup .container{
+	margin-top: 50px;
+	width: 800px;
+	margin: auto;
+	border: 2px solid #f6ad39;
+}
+#signup h1{
+	font-family: utm essendie caps re;
+	color: #f6ad39;
+	font-weight: bold;
+	margin-top: 50px;
+}
+.form-control{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	border-radius: 0;
+	border: 1px solid #f6ad39;
+}
+#signup button{
+	border-radius: 0;
+	margin-bottom: 20px;
+}
+#xetnghiem h1{
+	font-family: utm essendie caps re;
+	color: #f6ad39;
+	font-weight: bold;
+	margin-top: 50px;
+}
+#xetnghiem button{
+	margin-top: 10px;
+	border-radius: 0px;
+	border: none;
+	margin: auto;
+	margin-left: 100px;
+}
+#whychooseus .back{
+	position: relative;
+}
+#whychooseus .overlapp{
+	position: absolute;
+	top: 50px;
+	left: 40%;
+}
+#tourseven .overtapp{
+	position: absolute;
+	top: 50px;
+	right: 40%;
+	z-index: 999;
+}
+#whychooseus .bot{
+	margin-top: 50px;
+}
+#whychooseus .top{
+	margin-top: 50px;
+}
+#tourseven .ddd{
+	background-color: white;
+	margin: auto;
+	padding: 20px;
+	width: 400px;
+}
+#whychooseus .margin-lefttt{
+	background-color: white;
+	margin: auto;
+	width: 360px;
+	border: 2px solid orange;
+
+}
+#whychooseus .margin-righttt{
+	background-color: white;
+	margin: auto;
+	width: 360px;
+	border: 2px solid orange;
+
+}
+#whychooseus .right{
+	margin-right: 0;
+	float: right;
+}
+#whychooseus .row{
+	margin-right: 0;
+	margin-left: -15px;
+}
+
+#whychooseus h3,p{
+	margin-top: 10px;
+	margin-left: 10px;
+}
+#whychooseus h3{
+	font-family: utm essendie caps re;
+}
+#whychooseus p{
+	margin-top: 15px;
+	margin-left: 10px;
+	font-family:UTM Avo;
+}
+
+#whychooseus h2{
+	font-family: utm essendie caps re;
+	color: #000;
+	font-weight: bold;
+	margin-top: 50px;
+}
+
+
+.body-dichvu{
+	background-color: #e9e9e9;
+}

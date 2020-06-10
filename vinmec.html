@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html lang="">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Title Page</title>
+
+		<!-- Liên kết css của bootstrap -->
+		<link rel="stylesheet" href="css/bootstrap.min.css">
+		<!-- Css của mình -->
+		<link rel="stylesheet" href="css/all.css">
+		<link rel="stylesheet" href="css/style.css">
+		<style>
+			body{
+				background-color: #fff;
+			}
+		</style>
+	</head>
+	<body>
+		<section id="menu-bar">
+			<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+				<div class="container">
+					<!-- Brand and toggle get grouped for better mobile display -->
+					<div class="navbar-header">
+						<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+						
+					</div>
+			
+					<!-- Collect the nav links, forms, and other content for toggling -->
+					<div class="collapse navbar-collapse navbar-ex1-collapse">
+						<ul class="nav navbar-nav">
+							<li class="dropdown">
+								<a href="index.html" class="dropdown-toggle" data-toggle="dropdown">Home <b class="caret"></b></a>
+								<ul class="dropdown-menu">
+									<li><a href="dichvu.html">Dịch vụ</a></li>
+									<li><a href="history.html">Lịch sử đặt phòng</a></li>
+									<li><a href="hoihop.html">Hội họp & Sự kiện</a></li>
+									<li><a href="tintuc.html">Tin tức</a></li>
+								</ul>
+							</li>
+							<li class="dropdown">
+								<a href="" class="dropdown-toggle" data-toggle="dropdown">Khu vực <b class="caret"></b></a>
+								<ul class="dropdown-menu">
+									<li><a href="vinmec.html">Vinmec</a></li>
+									<li><a href="vinpearlland.html">Vinpearl Land </a></li>
+									
+								</ul>
+							</li>
+							<li><a href="restaurant.html">Nhà hàng & Bar</a></li>
+						</ul>
+						<a class="navbar-brand" href="index.html"><img src="img/logo.png.png" class="img-responsive" alt="Image"></a>
+						<ul class="nav navbar-nav navbar-right">
+							<li><a href="goithieu.html">Giới thiệu</a></li>
+							<li><a href="hotel.html">Khách sạn</a></li>
+							<li><a href="lienhe.html">Liên hệ</a></li>
+						</ul>
+					</div><!-- /.navbar-collapse -->
+				</div>
+			</nav>
+		</section>
+		<section id="slidervm">
+			<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+				<!-- Indicators -->
+				<ol class="carousel-indicators">
+					<li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+					<li data-target="#carousel-example-generic" data-slide-to="1"></li>
+					<li data-target="#carousel-example-generic" data-slide-to="2"></li>
+				</ol>
+
+				<!-- Wrapper for slides -->
+				<div class="carousel-inner" role="listbox">
+					<div class="item active">
+						<img src="img/bannervm.jpg" alt="...">
+						<div class="carousel-caption">
+							<h2 class="text-center">VINPEARL</h2>
+							<h4 class="text-center">Vinmec</h4>
+
+						</div>
+					</div>
+					<div class="item">
+						<img src="img/bannervm.jpg" alt="...">
+						<div class="carousel-caption">
+							<h2 class="text-center">VINPEARL</h2>
+							<h4 class="text-center">Vinmec</h4>
+						</div>
+					</div>
+					<div class="item">
+						<img src="img/bannervm.jpg" alt="...">
+						<div class="carousel-caption">
+							<h2 class="text-center">VINPEARL</h2>
+							<h4 class="text-center">Vinmec</h4>
+						</div>
+					</div>
+					
+				</div>
+
+				<!-- Controls -->
+				
+			</div>
+
+		</section> 
+		
+		<section id="signup">
+			<h1 class="text-center">ĐĂNG KÍ LỊCH KHÁM</h1>
+			<div class="container">
+				<form>
+				<div class="form-group">
+					<input type="text" class="form-control" id="formGroupExampleInput" placeholder="Họ và tên">
+				</div>
+				<div class="form-group">
+					<input type="text" class="form-control" id="formGroupExampleInput" placeholder="Ngày sinh:dd/mm/yyyy">
+				</div>
+
+				<div class="form-group">
+					<input type="text" class="form-control" id="formGroupExampleInput" placeholder="Điện thoại">
+				</div>
+				<div class="form-group">
+					<input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Email(không bắt buộc)">
+					
+				</div>
+				<div class="form-group">
+					<input type="text" class="form-control" id="formGroupExampleInput" placeholder="Chọn địa điểm">
+				</div>
+				<div class="form-group">
+					<input type="text" class="form-control" id="formGroupExampleInput" placeholder="Thời gian khám(không bắt buộc):">
+				</div>
+				<div class="form-group">
+					<textarea class="form-control" id="exampleTextarea" rows="4"></textarea>
+				</div>
+				
+				<button type="submit" class="btn btn-warning center-block">Đăng kí</button>
+			</form>
+			</div>
+		</section>
+		<section id="xetnghiem">
+			<h1 class="text-center">Xét nghiệm</h1>
+			<div class="container">
+				<div class="row">
+					<div class="col-md-3"><img src="img/xn1.png" alt="" class="img-responsive">
+						<h4 class="text-center">Xét nghiệm máu</h4>
+						<button class="btn btn-warning">Đăng kí</button>
+					</img></div>
+					<div class="col-md-3"><img src="img/xn2.png" alt="" class="img-responsive">
+						<h4 class="text-center">Xét nghiệm sinh hóa máu</h4>
+						<button class="btn btn-warning">Đăng kí</button>
+					</img></div>
+					<div class="col-md-3"><img src="img/xn3.png" alt="" class="img-responsive">
+						<h4 class="text-center">Xét nghiệm ADN</h4>
+						<button class="btn btn-warning">Đăng kí</button>
+					</img></div>
+					<div class="col-md-3"><img src="img/xn4.png" alt="" class="img-responsive">
+						<h4 class="text-center">Xét nghiệm nước tiểu</h4>
+						<button class="btn btn-warning">Đăng kí</button>
+					</img></div>
+				</div>
+			</div>
+
+		</section>
+		<section id="whychooseus">
+			<section id="tourseven">
+			<h2 class="text-center">Vì sao nên lựa chọn Vinmec?</h2>
+			<div class="row">
+				<div class="container">
+					<div class="col-md-12 top">
+						<div class="row">
+							<div class="col-md-6 back"><img src="img/us1.png" class="img-responsive" alt="Image"></div>
+							<div class="col-md-6 overlapp">
+								<div class="ddd">
+									<div class="margin-lefttt">
+										<h3 class="text-uppercase">Đội ngũ chuyên gia y tế đầu ngành</h3>
+										<p>Vinmec quy tụ đội ngũ chuyên gia, bác sĩ, dược sĩ và điều dưỡng có trình độ chuyên môn cao, tay nghề giỏi, tận tâm và chuyên nghiệp. Luôn đặt người bệnh làm trung tâm, Vinmec cam kết đem đến dịch vụ chăm sóc sức khỏe tốt   nhất cho khách hàng.
+										</p>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-12 bot">
+						<div class="row">
+							<div class="col-md-6 overtapp">
+								<div class="ddd">
+									<div class="margin-righttt">
+										<h3 class="text-uppercase">Dịch vụ chuyên nghiệp - Tiêu chuẩn quốc tế</h3>
+										<p>Hệ thống Y tế Vinmec được quản lý và vận hành theo tiêu chuẩn quốc tế. Dịch vụ khám, tư vấn và chữa bệnh toàn diện, chuyên nghiệp; không gian khám chữa bệnh văn minh, lịch sự, an toàn và tiệt trùng tối đa..
+									</div>
+								</div>
+							</div>
+							<div class="col-md-6 back right"><img src="img/us2.png" class="img-responsive" alt="Image"></div>
+						</div>
+					</div>
+					<div class="col-md-12 top">
+						<div class="row">
+							<div class="col-md-6 back"><img src="img/us3.png" class="img-responsive" alt="Image"></div>
+							<div class="col-md-6 overlapp">
+								<div class="ddd">
+									<div class="margin-lefttt">
+										<h3 class="text-uppercase">Trang thiết bị hiện đại nhất thế giới</h3>
+										<p>Tập đoàn Vingroup đã đầu tư cho hệ thống y tế Vinmec những thiết bị y khoa tân tiến, tương đương với các bệnh viện hàng đầu tại Mỹ, Anh, Đức, Nhật Bản và Singapore... để hỗ trợ tối đa cho công tác chẩn đoán và điều trị.
+										</p>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-12 bot">
+						<div class="row">
+							<div class="col-md-6 overtapp">
+								<div class="ddd">
+									<div class="margin-righttt">
+										<h3 class="text-uppercase">Liên tục đào tạo - Thúc đẩy nghiên cứu</h3>
+										<p>Vinmec là hệ thống y tế tư nhân có định hướng xuyên suốt và đầu tư bài bản cho đào tạo và nghiên cứu khoa học. Vinmec sẽ phối hợp chặt chẽ với VinUni tuyển sinh hệ Bác sĩ, Điều dưỡng và các loại hình sau đại học vào năm 2020.
+
+										</p>
+									</div>
+								</div>
+							</div>
+							<div class="col-md-6 back right"><img src="img/us4.png" class="img-responsive" alt="Image"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		</section>
+		<section id="uudai">
+			<img src="img/banner3.jpg" class="img-responsive" alt="Image">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-6">
+						<h3>Ưu đãi khách hàng thân thiết</h3>
+						<h2>Ưu đãi 10% cho Thành Viên!</h2>
+						<p>Đăng ký thành viên VinID miễn phí và tích luỹ tới 10% khi sử dụng các dịch vụ tại Vinpearl trên giá công bố. Hãy cùng khám phá những điểm đến đẹp nhất Việt Nam với ưu đãi hấp dẫn.</p>
+
+					</div>
+					<div class="col-md-6">
+						<div class="row-n01">
+							<div class="col-md-12">
+								<img src="img/vin1.png" class="img-responsive" alt="Image">
+							</div>
+							<div class="row-n02">
+							<div class="col-md-12">
+								<img src="img/vin2.png" class="img-responsive" alt="Image">
+							</div>
+						</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<section id="footer">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-3">
+						<img src="img/logo1.png" class="img-responsive" alt="Image">
+					</div>
+					<div class="col-md-9">
+						<div class="row">
+							<div class="item">
+								<div class="col-md-3">
+								<h6>SƠ ĐỒ TRANG</h6>
+								<p>Ưu đãi</p>
+								<p>Hội họp & Sự kiện</p>
+								<p>Giới thiệu</p>
+								<p>Khách sạn</p>
+								<p>Về chúng tôi</p>
+							</div>
+						
+							<div class="item">
+								<div class="col-md-3">
+								<h6>KHU VỰC</h6>
+								<p>Vinmec</p>
+								<p>Nhà hàng & Bar</p>
+								<p>Vinpearl Land</p>
+								<p>Sân gofl</p>
+								<p>Khu khách sạn</p>
+								</div>
+							</div>
+							<div class="item">
+								<div class="col-md-3">
+								<h6>VỀ CHÚNG TÔI</h6>
+								<p>Liên hệ</p>
+								<p>Hỏi đáp</p>
+								<p>Tin tức</p>
+								<p>Quy định chung</p>
+								<p>Điều khoản chung</p>
+								</div>
+							</div>
+							<div class="item">
+							<div class="col-md-3">
+								<h6>ĐÓN XEM TIN TỨC MỚI</h6>
+								<div class="row">
+									<div class="col-md-4">
+										<i class="fab fa-youtube"></i>
+									</div>
+									<div class="col-md-4">
+										<i class="fab fa-facebook-square"></i>
+									</div>
+									<div class="col-md-4">
+										<i class="fab fa-instagram"></i>
+									</div>
+								</div>
+							</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+
+
+
+
+
+
+
+		<!-- Liên kết js tổng -->
+		<script src="js/jquery.min.js"></script>
+		<!-- Liên kết js của bootstrap -->
+		<script src="js/bootstrap.min.js"></script>
+	</body>
+</html>
